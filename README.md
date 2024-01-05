@@ -47,5 +47,6 @@ Some Premade-settings as shown in this example are here to help you when you run
 - Please Remeber to Use a proxy or VPN Before using the tools I've provided to you, it is very important to have a proxy or VPN because comment-bans are tied to the last IP address used. 
 - Using these tools can be seen by the Eldermods as malicious so please use at your own risk! You have been warned! 
 - I was inspired by the many hilarious bots I've seen in GD over the many years that I thought it would be nice if I made a library to make it easier than ever to make your own bots that you can deploy with no hassle at all...
+- The Bot is designed to shutdown once banned and if you want to resume it you either have to wait out the cooldown or roate to another account if you wish to coninue...
 
 
