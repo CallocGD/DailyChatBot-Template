@@ -3,10 +3,10 @@ A Simple Script To use as a Template for Making Geometry Dash Daily-Chat Bots in
 
 
 ## Example for making Daily-Chat-Bots
-All you have to do is subclass the bot class Made.
-Type-hinting is already provided thanks to `gd.py` by netkit...
+All you have to do is subclass the bot class made. If you understand how to code classes and use the attrs python library this 
+will be extremely easy for you to use. Type-hinting has already been provided thanks to `gd.py` by netkit...
 
-You can get really creative with these tools. 
+You can get really creative with these tools. If you really put your mind to it. The possibilities are endless...
 
 ```python
 @define(slots=False)
