@@ -49,4 +49,7 @@ Some Premade-settings as shown in this example are here to help you when you run
 - I was inspired by the many hilarious bots I've seen in GD over the many years that I thought it would be nice if I made a library to make it easier than ever to make your own bots that you can deploy with no hassle at all...
 - The Bot is designed to shutdown once banned and if you want to resume it you either have to wait out the cooldown or roate to another account if you wish to coninue...
 
+## TODOS
+- Make Discordpy Styled Callbacks and Event Wrappers and function-wrappers in the future 
+
 
