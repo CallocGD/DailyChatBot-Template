@@ -1,4 +1,5 @@
 <p><a href="https://discord.gg/dz8xBwRa"><img src=https://img.shields.io/badge/Discord_Server-3670a0?style=for-the-badge&logo=discord&logoColor=white></a></p>
+
 # DailyChatBot-Template
 A Simple Script To use as a Template for Making Geometry Dash Daily-Chat Bots in a Clean and fun way with Type-hinting for pyright and more...
 
